@@ -1,0 +1,62 @@
+               Brand-value  ... Measure Values-alias
+0                    %all%  ...                37.1%
+1                 Seabourn  ...                 1.4%
+2                 Princess  ...                 8.7%
+3    P&O Cruises Australia  ...                 0.6%
+4              P&O Cruises  ...                 2.0%
+..                     ...  ...                  ...
+187  American Cruise Lines  ...               13,600
+188                  %all%  ...               100.0%
+189                  %all%  ...      $23,834,840,000
+190                  %all%  ...               100.0%
+191                  %all%  ...           13,905,800
+
+[192 rows x 7 columns]
+                      Brand-alias  ... SUM(Total Passengers)-alias
+0                       Windstar   ...                      23,300
+1           Voyages to Antiquity   ...                       7,800
+2                  Virgin Voyages  ...                     111,100
+3                 Viking Cruises   ...                     143,700
+4                     TUI Cruises  ...                     330,100
+5                    Star Cruises  ...                      80,200
+6                  Star Clippers   ...                      11,700
+7            SeaDream Yacht Club   ...                       3,900
+8                    Saga Cruises  ...                      38,800
+9              Quark Expeditions   ...                      15,500
+10   Ponant/Paul Gauguin Cruises   ...                      85,400
+11                 Phoenix Reisen  ...                      43,700
+12           Paradise Cruise Line  ...                      50,500
+13                    MSC Cruises  ...                   1,414,700
+14                Marella Cruises  ...                     102,900
+15           Lindblad Expeditions  ...                      17,500
+16                   Hurtigruten   ...                     122,300
+17       Hebridean Island Cruises  ...                       1,900
+18                    Hapag Lloyd  ...                      48,500
+19       Grand Circle Cruise Line  ...                       1,900
+20                     Fred Olsen  ...                     110,700
+21                  Dream Cruises  ...                     264,100
+22                         Disney  ...                     312,200
+23                        Crystal  ...                      40,800
+24              Celestyal Cruises  ...                      64,100
+25  Blount Small Ship Adventures   ...                       3,900
+26          American Cruise Lines  ...                      13,600
+27              Regent Seven Seas  ...                      48,500
+28                Oceania Cruises  ...                      71,100
+29                      Norwegian  ...                   1,200,300
+30                      Silversea  ...                      48,900
+31                Royal Caribbean  ...                   2,657,900
+32                      Celebrity  ...                     540,000
+33                        Azamara  ...                      31,700
+34                       Seabourn  ...                      33,800
+35                       Princess  ...                     816,300
+36          P&O Cruises Australia  ...                     127,300
+37                    P&O Cruises  ...                     241,500
+38                Holland America  ...                     384,200
+39                         Cunard  ...                      99,700
+40                  Costa Cruises  ...                     862,400
+41                       Carnival  ...                   2,528,100
+42                           AIDA  ...                     749,300
+
+[43 rows x 7 columns]
+                          URL-alias
+0  http://www.cruisemarketwatch.com
