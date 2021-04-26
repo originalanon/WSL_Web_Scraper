@@ -1,62 +1,775 @@
-               Brand-value  ... Measure Values-alias
-0                    %all%  ...                37.1%
-1                 Seabourn  ...                 1.4%
-2                 Princess  ...                 8.7%
-3    P&O Cruises Australia  ...                 0.6%
-4              P&O Cruises  ...                 2.0%
-..                     ...  ...                  ...
-187  American Cruise Lines  ...               13,600
-188                  %all%  ...               100.0%
-189                  %all%  ...      $23,834,840,000
-190                  %all%  ...               100.0%
-191                  %all%  ...           13,905,800
+                       Brand-value                    Brand-alias  \
+0                            %all%                          %all%   
+1                         Seabourn                       Seabourn   
+2                         Princess                       Princess   
+3            P&O Cruises Australia          P&O Cruises Australia   
+4                      P&O Cruises                    P&O Cruises   
+5                  Holland America                Holland America   
+6                           Cunard                         Cunard   
+7                    Costa Cruises                  Costa Cruises   
+8                         Carnival                       Carnival   
+9                             AIDA                           AIDA   
+10                           %all%                          %all%   
+11                        Seabourn                       Seabourn   
+12                        Princess                       Princess   
+13           P&O Cruises Australia          P&O Cruises Australia   
+14                     P&O Cruises                    P&O Cruises   
+15                 Holland America                Holland America   
+16                          Cunard                         Cunard   
+17                   Costa Cruises                  Costa Cruises   
+18                        Carnival                       Carnival   
+19                            AIDA                           AIDA   
+20                           %all%                          %all%   
+21                        Seabourn                       Seabourn   
+22                        Princess                       Princess   
+23           P&O Cruises Australia          P&O Cruises Australia   
+24                     P&O Cruises                    P&O Cruises   
+25                 Holland America                Holland America   
+26                          Cunard                         Cunard   
+27                   Costa Cruises                  Costa Cruises   
+28                        Carnival                       Carnival   
+29                            AIDA                           AIDA   
+30                           %all%                          %all%   
+31                        Seabourn                       Seabourn   
+32                        Princess                       Princess   
+33           P&O Cruises Australia          P&O Cruises Australia   
+34                     P&O Cruises                    P&O Cruises   
+35                 Holland America                Holland America   
+36                          Cunard                         Cunard   
+37                   Costa Cruises                  Costa Cruises   
+38                        Carnival                       Carnival   
+39                            AIDA                           AIDA   
+40                           %all%                          %all%   
+41                       Silversea                      Silversea   
+42                 Royal Caribbean                Royal Caribbean   
+43                       Celebrity                      Celebrity   
+44                         Azamara                        Azamara   
+45                           %all%                          %all%   
+46                       Silversea                      Silversea   
+47                 Royal Caribbean                Royal Caribbean   
+48                       Celebrity                      Celebrity   
+49                         Azamara                        Azamara   
+50                           %all%                          %all%   
+51                       Silversea                      Silversea   
+52                 Royal Caribbean                Royal Caribbean   
+53                       Celebrity                      Celebrity   
+54                         Azamara                        Azamara   
+55                           %all%                          %all%   
+56                       Silversea                      Silversea   
+57                 Royal Caribbean                Royal Caribbean   
+58                       Celebrity                      Celebrity   
+59                         Azamara                        Azamara   
+60                           %all%                          %all%   
+61               Regent Seven Seas              Regent Seven Seas   
+62                 Oceania Cruises                Oceania Cruises   
+63                       Norwegian                      Norwegian   
+64                           %all%                          %all%   
+65               Regent Seven Seas              Regent Seven Seas   
+66                 Oceania Cruises                Oceania Cruises   
+67                       Norwegian                      Norwegian   
+68                           %all%                          %all%   
+69               Regent Seven Seas              Regent Seven Seas   
+70                 Oceania Cruises                Oceania Cruises   
+71                       Norwegian                      Norwegian   
+72                           %all%                          %all%   
+73               Regent Seven Seas              Regent Seven Seas   
+74                 Oceania Cruises                Oceania Cruises   
+75                       Norwegian                      Norwegian   
+76                           %all%                          %all%   
+77                       Windstar                       Windstar    
+78           Voyages to Antiquity           Voyages to Antiquity    
+79                  Virgin Voyages                 Virgin Voyages   
+80                 Viking Cruises                 Viking Cruises    
+81                     TUI Cruises                    TUI Cruises   
+82                    Star Cruises                   Star Cruises   
+83                  Star Clippers                  Star Clippers    
+84            SeaDream Yacht Club            SeaDream Yacht Club    
+85                    Saga Cruises                   Saga Cruises   
+86              Quark Expeditions              Quark Expeditions    
+87    Ponant/Paul Gauguin Cruises    Ponant/Paul Gauguin Cruises    
+88                  Phoenix Reisen                 Phoenix Reisen   
+89            Paradise Cruise Line           Paradise Cruise Line   
+90                     MSC Cruises                    MSC Cruises   
+91                 Marella Cruises                Marella Cruises   
+92            Lindblad Expeditions           Lindblad Expeditions   
+93                    Hurtigruten                    Hurtigruten    
+94        Hebridean Island Cruises       Hebridean Island Cruises   
+95                     Hapag Lloyd                    Hapag Lloyd   
+96        Grand Circle Cruise Line       Grand Circle Cruise Line   
+97                      Fred Olsen                     Fred Olsen   
+98                   Dream Cruises                  Dream Cruises   
+99                          Disney                         Disney   
+100                        Crystal                        Crystal   
+101              Celestyal Cruises              Celestyal Cruises   
+102  Blount Small Ship Adventures   Blount Small Ship Adventures    
+103          American Cruise Lines          American Cruise Lines   
+104                          %all%                          %all%   
+105                      Windstar                       Windstar    
+106          Voyages to Antiquity           Voyages to Antiquity    
+107                 Virgin Voyages                 Virgin Voyages   
+108                Viking Cruises                 Viking Cruises    
+109                    TUI Cruises                    TUI Cruises   
+110                   Star Cruises                   Star Cruises   
+111                 Star Clippers                  Star Clippers    
+112           SeaDream Yacht Club            SeaDream Yacht Club    
+113                   Saga Cruises                   Saga Cruises   
+114             Quark Expeditions              Quark Expeditions    
+115   Ponant/Paul Gauguin Cruises    Ponant/Paul Gauguin Cruises    
+116                 Phoenix Reisen                 Phoenix Reisen   
+117           Paradise Cruise Line           Paradise Cruise Line   
+118                    MSC Cruises                    MSC Cruises   
+119                Marella Cruises                Marella Cruises   
+120           Lindblad Expeditions           Lindblad Expeditions   
+121                   Hurtigruten                    Hurtigruten    
+122       Hebridean Island Cruises       Hebridean Island Cruises   
+123                    Hapag Lloyd                    Hapag Lloyd   
+124       Grand Circle Cruise Line       Grand Circle Cruise Line   
+125                     Fred Olsen                     Fred Olsen   
+126                  Dream Cruises                  Dream Cruises   
+127                         Disney                         Disney   
+128                        Crystal                        Crystal   
+129              Celestyal Cruises              Celestyal Cruises   
+130  Blount Small Ship Adventures   Blount Small Ship Adventures    
+131          American Cruise Lines          American Cruise Lines   
+132                          %all%                          %all%   
+133                      Windstar                       Windstar    
+134          Voyages to Antiquity           Voyages to Antiquity    
+135                 Virgin Voyages                 Virgin Voyages   
+136                Viking Cruises                 Viking Cruises    
+137                    TUI Cruises                    TUI Cruises   
+138                   Star Cruises                   Star Cruises   
+139                 Star Clippers                  Star Clippers    
+140           SeaDream Yacht Club            SeaDream Yacht Club    
+141                   Saga Cruises                   Saga Cruises   
+142             Quark Expeditions              Quark Expeditions    
+143   Ponant/Paul Gauguin Cruises    Ponant/Paul Gauguin Cruises    
+144                 Phoenix Reisen                 Phoenix Reisen   
+145           Paradise Cruise Line           Paradise Cruise Line   
+146                    MSC Cruises                    MSC Cruises   
+147                Marella Cruises                Marella Cruises   
+148           Lindblad Expeditions           Lindblad Expeditions   
+149                   Hurtigruten                    Hurtigruten    
+150       Hebridean Island Cruises       Hebridean Island Cruises   
+151                    Hapag Lloyd                    Hapag Lloyd   
+152       Grand Circle Cruise Line       Grand Circle Cruise Line   
+153                     Fred Olsen                     Fred Olsen   
+154                  Dream Cruises                  Dream Cruises   
+155                         Disney                         Disney   
+156                        Crystal                        Crystal   
+157              Celestyal Cruises              Celestyal Cruises   
+158  Blount Small Ship Adventures   Blount Small Ship Adventures    
+159          American Cruise Lines          American Cruise Lines   
+160                          %all%                          %all%   
+161                      Windstar                       Windstar    
+162          Voyages to Antiquity           Voyages to Antiquity    
+163                 Virgin Voyages                 Virgin Voyages   
+164                Viking Cruises                 Viking Cruises    
+165                    TUI Cruises                    TUI Cruises   
+166                   Star Cruises                   Star Cruises   
+167                 Star Clippers                  Star Clippers    
+168           SeaDream Yacht Club            SeaDream Yacht Club    
+169                   Saga Cruises                   Saga Cruises   
+170             Quark Expeditions              Quark Expeditions    
+171   Ponant/Paul Gauguin Cruises    Ponant/Paul Gauguin Cruises    
+172                 Phoenix Reisen                 Phoenix Reisen   
+173           Paradise Cruise Line           Paradise Cruise Line   
+174                    MSC Cruises                    MSC Cruises   
+175                Marella Cruises                Marella Cruises   
+176           Lindblad Expeditions           Lindblad Expeditions   
+177                   Hurtigruten                    Hurtigruten    
+178       Hebridean Island Cruises       Hebridean Island Cruises   
+179                    Hapag Lloyd                    Hapag Lloyd   
+180       Grand Circle Cruise Line       Grand Circle Cruise Line   
+181                     Fred Olsen                     Fred Olsen   
+182                  Dream Cruises                  Dream Cruises   
+183                         Disney                         Disney   
+184                        Crystal                        Crystal   
+185              Celestyal Cruises              Celestyal Cruises   
+186  Blount Small Ship Adventures   Blount Small Ship Adventures    
+187          American Cruise Lines          American Cruise Lines   
+188                          %all%                          %all%   
+189                          %all%                          %all%   
+190                          %all%                          %all%   
+191                          %all%                          %all%   
 
-[192 rows x 7 columns]
-                      Brand-alias  ... SUM(Total Passengers)-alias
-0                       Windstar   ...                      23,300
-1           Voyages to Antiquity   ...                       7,800
-2                  Virgin Voyages  ...                     111,100
-3                 Viking Cruises   ...                     143,700
-4                     TUI Cruises  ...                     330,100
-5                    Star Cruises  ...                      80,200
-6                  Star Clippers   ...                      11,700
-7            SeaDream Yacht Club   ...                       3,900
-8                    Saga Cruises  ...                      38,800
-9              Quark Expeditions   ...                      15,500
-10   Ponant/Paul Gauguin Cruises   ...                      85,400
-11                 Phoenix Reisen  ...                      43,700
-12           Paradise Cruise Line  ...                      50,500
-13                    MSC Cruises  ...                   1,414,700
-14                Marella Cruises  ...                     102,900
-15           Lindblad Expeditions  ...                      17,500
-16                   Hurtigruten   ...                     122,300
-17       Hebridean Island Cruises  ...                       1,900
-18                    Hapag Lloyd  ...                      48,500
-19       Grand Circle Cruise Line  ...                       1,900
-20                     Fred Olsen  ...                     110,700
-21                  Dream Cruises  ...                     264,100
-22                         Disney  ...                     312,200
-23                        Crystal  ...                      40,800
-24              Celestyal Cruises  ...                      64,100
-25  Blount Small Ship Adventures   ...                       3,900
-26          American Cruise Lines  ...                      13,600
-27              Regent Seven Seas  ...                      48,500
-28                Oceania Cruises  ...                      71,100
-29                      Norwegian  ...                   1,200,300
-30                      Silversea  ...                      48,900
-31                Royal Caribbean  ...                   2,657,900
-32                      Celebrity  ...                     540,000
-33                        Azamara  ...                      31,700
-34                       Seabourn  ...                      33,800
-35                       Princess  ...                     816,300
-36          P&O Cruises Australia  ...                     127,300
-37                    P&O Cruises  ...                     241,500
-38                Holland America  ...                     384,200
-39                         Cunard  ...                      99,700
-40                  Costa Cruises  ...                     862,400
-41                       Carnival  ...                   2,528,100
-42                           AIDA  ...                     749,300
+    Parent-value Parent-alias  \
+0       Carnival     Carnival   
+1       Carnival     Carnival   
+2       Carnival     Carnival   
+3       Carnival     Carnival   
+4       Carnival     Carnival   
+5       Carnival     Carnival   
+6       Carnival     Carnival   
+7       Carnival     Carnival   
+8       Carnival     Carnival   
+9       Carnival     Carnival   
+10      Carnival     Carnival   
+11      Carnival     Carnival   
+12      Carnival     Carnival   
+13      Carnival     Carnival   
+14      Carnival     Carnival   
+15      Carnival     Carnival   
+16      Carnival     Carnival   
+17      Carnival     Carnival   
+18      Carnival     Carnival   
+19      Carnival     Carnival   
+20      Carnival     Carnival   
+21      Carnival     Carnival   
+22      Carnival     Carnival   
+23      Carnival     Carnival   
+24      Carnival     Carnival   
+25      Carnival     Carnival   
+26      Carnival     Carnival   
+27      Carnival     Carnival   
+28      Carnival     Carnival   
+29      Carnival     Carnival   
+30      Carnival     Carnival   
+31      Carnival     Carnival   
+32      Carnival     Carnival   
+33      Carnival     Carnival   
+34      Carnival     Carnival   
+35      Carnival     Carnival   
+36      Carnival     Carnival   
+37      Carnival     Carnival   
+38      Carnival     Carnival   
+39      Carnival     Carnival   
+40           RCI          RCI   
+41           RCI          RCI   
+42           RCI          RCI   
+43           RCI          RCI   
+44           RCI          RCI   
+45           RCI          RCI   
+46           RCI          RCI   
+47           RCI          RCI   
+48           RCI          RCI   
+49           RCI          RCI   
+50           RCI          RCI   
+51           RCI          RCI   
+52           RCI          RCI   
+53           RCI          RCI   
+54           RCI          RCI   
+55           RCI          RCI   
+56           RCI          RCI   
+57           RCI          RCI   
+58           RCI          RCI   
+59           RCI          RCI   
+60     Norwegian    Norwegian   
+61     Norwegian    Norwegian   
+62     Norwegian    Norwegian   
+63     Norwegian    Norwegian   
+64     Norwegian    Norwegian   
+65     Norwegian    Norwegian   
+66     Norwegian    Norwegian   
+67     Norwegian    Norwegian   
+68     Norwegian    Norwegian   
+69     Norwegian    Norwegian   
+70     Norwegian    Norwegian   
+71     Norwegian    Norwegian   
+72     Norwegian    Norwegian   
+73     Norwegian    Norwegian   
+74     Norwegian    Norwegian   
+75     Norwegian    Norwegian   
+76     All Other    All Other   
+77     All Other    All Other   
+78     All Other    All Other   
+79     All Other    All Other   
+80     All Other    All Other   
+81     All Other    All Other   
+82     All Other    All Other   
+83     All Other    All Other   
+84     All Other    All Other   
+85     All Other    All Other   
+86     All Other    All Other   
+87     All Other    All Other   
+88     All Other    All Other   
+89     All Other    All Other   
+90     All Other    All Other   
+91     All Other    All Other   
+92     All Other    All Other   
+93     All Other    All Other   
+94     All Other    All Other   
+95     All Other    All Other   
+96     All Other    All Other   
+97     All Other    All Other   
+98     All Other    All Other   
+99     All Other    All Other   
+100    All Other    All Other   
+101    All Other    All Other   
+102    All Other    All Other   
+103    All Other    All Other   
+104    All Other    All Other   
+105    All Other    All Other   
+106    All Other    All Other   
+107    All Other    All Other   
+108    All Other    All Other   
+109    All Other    All Other   
+110    All Other    All Other   
+111    All Other    All Other   
+112    All Other    All Other   
+113    All Other    All Other   
+114    All Other    All Other   
+115    All Other    All Other   
+116    All Other    All Other   
+117    All Other    All Other   
+118    All Other    All Other   
+119    All Other    All Other   
+120    All Other    All Other   
+121    All Other    All Other   
+122    All Other    All Other   
+123    All Other    All Other   
+124    All Other    All Other   
+125    All Other    All Other   
+126    All Other    All Other   
+127    All Other    All Other   
+128    All Other    All Other   
+129    All Other    All Other   
+130    All Other    All Other   
+131    All Other    All Other   
+132    All Other    All Other   
+133    All Other    All Other   
+134    All Other    All Other   
+135    All Other    All Other   
+136    All Other    All Other   
+137    All Other    All Other   
+138    All Other    All Other   
+139    All Other    All Other   
+140    All Other    All Other   
+141    All Other    All Other   
+142    All Other    All Other   
+143    All Other    All Other   
+144    All Other    All Other   
+145    All Other    All Other   
+146    All Other    All Other   
+147    All Other    All Other   
+148    All Other    All Other   
+149    All Other    All Other   
+150    All Other    All Other   
+151    All Other    All Other   
+152    All Other    All Other   
+153    All Other    All Other   
+154    All Other    All Other   
+155    All Other    All Other   
+156    All Other    All Other   
+157    All Other    All Other   
+158    All Other    All Other   
+159    All Other    All Other   
+160    All Other    All Other   
+161    All Other    All Other   
+162    All Other    All Other   
+163    All Other    All Other   
+164    All Other    All Other   
+165    All Other    All Other   
+166    All Other    All Other   
+167    All Other    All Other   
+168    All Other    All Other   
+169    All Other    All Other   
+170    All Other    All Other   
+171    All Other    All Other   
+172    All Other    All Other   
+173    All Other    All Other   
+174    All Other    All Other   
+175    All Other    All Other   
+176    All Other    All Other   
+177    All Other    All Other   
+178    All Other    All Other   
+179    All Other    All Other   
+180    All Other    All Other   
+181    All Other    All Other   
+182    All Other    All Other   
+183    All Other    All Other   
+184    All Other    All Other   
+185    All Other    All Other   
+186    All Other    All Other   
+187    All Other    All Other   
+188        %all%        %all%   
+189        %all%        %all%   
+190        %all%        %all%   
+191        %all%        %all%   
 
-[43 rows x 7 columns]
-                          URL-alias
-0  http://www.cruisemarketwatch.com
+                                   Measure Names-value Measure Names-alias  \
+0    [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+1    [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+2    [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+3    [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+4    [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+5    [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+6    [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+7    [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+8    [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+9    [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+10     [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+11     [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+12     [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+13     [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+14     [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+15     [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+16     [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+17     [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+18     [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+19     [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+20   [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+21   [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+22   [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+23   [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+24   [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+25   [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+26   [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+27   [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+28   [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+29   [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+30   [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+31   [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+32   [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+33   [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+34   [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+35   [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+36   [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+37   [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+38   [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+39   [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+40   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+41   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+42   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+43   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+44   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+45     [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+46     [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+47     [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+48     [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+49     [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+50   [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+51   [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+52   [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+53   [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+54   [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+55   [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+56   [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+57   [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+58   [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+59   [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+60   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+61   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+62   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+63   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+64     [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+65     [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+66     [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+67     [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+68   [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+69   [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+70   [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+71   [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+72   [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+73   [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+74   [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+75   [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+76   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+77   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+78   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+79   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+80   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+81   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+82   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+83   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+84   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+85   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+86   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+87   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+88   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+89   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+90   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+91   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+92   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+93   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+94   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+95   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+96   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+97   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+98   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+99   [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+100  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+101  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+102  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+103  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+104    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+105    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+106    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+107    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+108    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+109    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+110    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+111    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+112    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+113    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+114    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+115    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+116    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+117    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+118    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+119    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+120    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+121    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+122    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+123    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+124    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+125    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+126    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+127    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+128    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+129    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+130    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+131    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+132  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+133  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+134  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+135  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+136  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+137  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+138  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+139  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+140  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+141  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+142  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+143  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+144  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+145  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+146  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+147  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+148  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+149  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+150  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+151  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+152  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+153  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+154  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+155  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+156  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+157  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+158  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+159  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+160  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+161  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+162  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+163  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+164  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+165  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+166  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+167  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+168  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+169  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+170  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+171  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+172  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+173  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+174  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+175  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+176  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+177  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+178  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+179  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+180  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+181  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+182  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+183  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+184  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+185  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+186  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+187  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+188  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue   
+189    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue   
+190  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers   
+191  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers   
+
+    Measure Values-alias  
+0                  37.1%  
+1                   1.4%  
+2                   8.7%  
+3                   0.6%  
+4                   2.0%  
+5                   4.6%  
+6                   1.8%  
+7                   4.7%  
+8                   7.6%  
+9                   5.8%  
+10        $8,833,190,000  
+11          $345,120,000  
+12        $2,065,350,000  
+13          $134,980,000  
+14          $466,790,000  
+15        $1,095,070,000  
+16          $427,110,000  
+17        $1,121,190,000  
+18        $1,803,870,000  
+19        $1,373,710,000  
+20                 42.0%  
+21                  0.2%  
+22                  5.9%  
+23                  0.9%  
+24                  1.7%  
+25                  2.8%  
+26                  0.7%  
+27                  6.2%  
+28                 18.2%  
+29                  5.4%  
+30             5,842,600  
+31                33,800  
+32               816,300  
+33               127,300  
+34               241,500  
+35               384,200  
+36                99,700  
+37               862,400  
+38             2,528,100  
+39               749,300  
+40                 21.2%  
+41                  1.6%  
+42                 12.8%  
+43                  6.1%  
+44                  0.7%  
+45        $5,054,210,000  
+46          $391,710,000  
+47        $3,048,670,000  
+48        $1,452,300,000  
+49          $161,530,000  
+50                 23.6%  
+51                  0.4%  
+52                 19.1%  
+53                  3.9%  
+54                  0.2%  
+55             3,278,500  
+56                48,900  
+57             2,657,900  
+58               540,000  
+59                31,700  
+60                 12.6%  
+61                  2.4%  
+62                  1.6%  
+63                  8.6%  
+64        $2,996,280,000  
+65          $565,150,000  
+66          $373,140,000  
+67        $2,057,990,000  
+68                  9.5%  
+69                  0.3%  
+70                  0.5%  
+71                  8.6%  
+72             1,319,900  
+73                48,500  
+74                71,100  
+75             1,200,300  
+76                 29.2%  
+77                  0.3%  
+78                  0.1%  
+79                  1.3%  
+80                  1.7%  
+81                  3.8%  
+82                  0.9%  
+83                  0.1%  
+84                  0.0%  
+85                  0.4%  
+86                  0.2%  
+87                  1.0%  
+88                  0.5%  
+89                  0.6%  
+90                  6.5%  
+91                  1.2%  
+92                  0.2%  
+93                  1.4%  
+94                  0.0%  
+95                  0.6%  
+96                  0.0%  
+97                  1.3%  
+98                  3.0%  
+99                  2.7%  
+100                 0.5%  
+101                 0.7%  
+102                 0.0%  
+103                 0.2%  
+104       $6,951,160,000  
+105          $63,800,000  
+106          $21,270,000  
+107         $304,100,000  
+108         $393,410,000  
+109         $903,790,000  
+110         $219,670,000  
+111          $31,900,000  
+112          $10,630,000  
+113         $106,220,000  
+114          $42,420,000  
+115         $233,920,000  
+116         $119,620,000  
+117         $138,230,000  
+118       $1,539,650,000  
+119         $281,770,000  
+120          $47,850,000  
+121         $334,930,000  
+122           $5,320,000  
+123         $132,910,000  
+124           $5,320,000  
+125         $303,030,000  
+126         $723,030,000  
+127         $653,450,000  
+128         $111,640,000  
+129         $175,440,000  
+130          $10,630,000  
+131          $37,210,000  
+132                24.9%  
+133                 0.2%  
+134                 0.1%  
+135                 0.8%  
+136                 1.0%  
+137                 2.4%  
+138                 0.6%  
+139                 0.1%  
+140                 0.0%  
+141                 0.3%  
+142                 0.1%  
+143                 0.6%  
+144                 0.3%  
+145                 0.4%  
+146                10.2%  
+147                 0.7%  
+148                 0.1%  
+149                 0.9%  
+150                 0.0%  
+151                 0.3%  
+152                 0.0%  
+153                 0.8%  
+154                 1.9%  
+155                 2.2%  
+156                 0.3%  
+157                 0.5%  
+158                 0.0%  
+159                 0.1%  
+160            3,464,800  
+161               23,300  
+162                7,800  
+163              111,100  
+164              143,700  
+165              330,100  
+166               80,200  
+167               11,700  
+168                3,900  
+169               38,800  
+170               15,500  
+171               85,400  
+172               43,700  
+173               50,500  
+174            1,414,700  
+175              102,900  
+176               17,500  
+177              122,300  
+178                1,900  
+179               48,500  
+180                1,900  
+181              110,700  
+182              264,100  
+183              312,200  
+184               40,800  
+185               64,100  
+186                3,900  
+187               13,600  
+188               100.0%  
+189      $23,834,840,000  
+190               100.0%  
+191           13,905,800  
