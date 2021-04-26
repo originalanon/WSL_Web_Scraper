@@ -1,5 +1,8 @@
 import sys as sys
+import requests
+from bs4 import BeautifulSoup
 from tableauscraper import TableauScraper as TS
+
 
 url = "https://cruisemarketwatch.com/market-share/"
 
@@ -12,3 +15,6 @@ for t in spreadSheet.worksheets:
     print(t.data)
 sys.stdout.close()
 
+
+
+soup = BeautifulSoup(page.content, 'html.parser')
