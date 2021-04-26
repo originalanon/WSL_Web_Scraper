@@ -1,2 +1,3 @@
-print("Hello, world!")
-print("Hi, Jake and Mick!")
+from tableauscraper import TableauScraper as TS
+
+print("Hello world!")
