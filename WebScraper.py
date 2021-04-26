@@ -1,4 +1,7 @@
 from tableauscraper import TableauScraper as TS
 
-print("Hello world!")
-print("thanks for the help from jake")
+url = "https://cruisemarketwatch.com/market-share/"
+ts = TS()
+ts.loads(url)
+spreadSheet = ts.getWorkbook()
+print(spreadSheet.data)
