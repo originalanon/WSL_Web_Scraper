@@ -19,5 +19,5 @@ print(spreadSheet.data)
 sys.stdout.close()
 
 
-
-#soup = BeautifulSoup(page.content, 'html.parser')
+page = requests.get(URL)
+soup = BeautifulSoup(page.content, 'html.parser')
