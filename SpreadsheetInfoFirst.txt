@@ -1,6 +1,6 @@
                        Brand-value                    Brand-alias  \
 0                            %all%                          %all%   
-1                         Seabourn                       Seabourn   
+1                         Seabourn                       Seabourm   
 2                         Princess                       Princess   
 3            P&O Cruises Australia          P&O Cruises Australia   
 4                      P&O Cruises                    P&O Cruises   
