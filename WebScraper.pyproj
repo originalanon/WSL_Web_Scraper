@@ -21,6 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="csvFunctions.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="WebScraper.py" />
   </ItemGroup>
   <ItemGroup>
