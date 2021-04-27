@@ -3,3 +3,4 @@ class Company:
         self.name=name
         self.parent=parentCompany
         
+        

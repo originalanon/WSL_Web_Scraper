@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 from tableauscraper import TableauScraper as TS
 
 
+
 url = "https://cruisemarketwatch.com/market-share/"
 
 category=["Parent Company", "Brand", "Total Passengers", "% of Passengers", "Revenue", "% of Revenue", "Average Stock Value"]
