@@ -13,11 +13,11 @@ spreadSheet = ts.getWorksheet("Details")
 
 pd.set_option('display.max_columns', None)
 pd.set_option('display.max_rows', None)
+pd.set_option('display.width', None)
 
-sys.stdout = open("SpreadsheetInfoFirst.txt", "w")
+sys.stdout = open("SpreadsheetInfoFirst.csv", "w")
 print(spreadSheet.data)
 sys.stdout.close()
-
 
 page = requests.get(url)
 soup = BeautifulSoup(page.content, 'html.parser')
