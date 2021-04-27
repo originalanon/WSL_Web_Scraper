@@ -20,11 +20,5 @@ pd.set_option('display.width', None)
 
 cf.organizeSpreadsheetInfo("./SpreadsheetInfoFirst.csv")
 
-#adding cleaning
-cruise_info=pd.read_csv("./SpreadsheetInfoFirst.csv", encoding= 'latin1')
-cruise_info=cruise_info.drop(["Brand-alias", "Parent-alias","Measure Names-value"],axis=1)
-cruise_info=cruise_info.drop_duplicates(inplace=True,subset="title")
-cruise_info.columns=["Parent Company", "Brand", "Total Passengers", "% of Passengers", "Revenue", "% of Revenue", "Average Stock Value"]
-
 page = requests.get(url)
 soup = BeautifulSoup(page.content, 'html.parser')
