@@ -1,0 +1,193 @@
+                       Brand-value                    Brand-alias Parent-value Parent-alias                                Measure Names-value Measure Names-alias Measure Values-alias
+0                            %all%                          %all%     Carnival     Carnival  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                37.1%
+1                         Seabourn                       Seabourn     Carnival     Carnival  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 1.4%
+2                         Princess                       Princess     Carnival     Carnival  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 8.7%
+3            P&O Cruises Australia          P&O Cruises Australia     Carnival     Carnival  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 0.6%
+4                      P&O Cruises                    P&O Cruises     Carnival     Carnival  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 2.0%
+5                  Holland America                Holland America     Carnival     Carnival  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 4.6%
+6                           Cunard                         Cunard     Carnival     Carnival  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 1.8%
+7                    Costa Cruises                  Costa Cruises     Carnival     Carnival  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 4.7%
+8                         Carnival                       Carnival     Carnival     Carnival  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 7.6%
+9                             AIDA                           AIDA     Carnival     Carnival  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 5.8%
+10                           %all%                          %all%     Carnival     Carnival    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue       $8,833,190,000
+11                        Seabourn                       Seabourn     Carnival     Carnival    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue         $345,120,000
+12                        Princess                       Princess     Carnival     Carnival    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue       $2,065,350,000
+13           P&O Cruises Australia          P&O Cruises Australia     Carnival     Carnival    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue         $134,980,000
+14                     P&O Cruises                    P&O Cruises     Carnival     Carnival    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue         $466,790,000
+15                 Holland America                Holland America     Carnival     Carnival    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue       $1,095,070,000
+16                          Cunard                         Cunard     Carnival     Carnival    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue         $427,110,000
+17                   Costa Cruises                  Costa Cruises     Carnival     Carnival    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue       $1,121,190,000
+18                        Carnival                       Carnival     Carnival     Carnival    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue       $1,803,870,000
+19                            AIDA                           AIDA     Carnival     Carnival    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue       $1,373,710,000
+20                           %all%                          %all%     Carnival     Carnival  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                42.0%
+21                        Seabourn                       Seabourn     Carnival     Carnival  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.2%
+22                        Princess                       Princess     Carnival     Carnival  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 5.9%
+23           P&O Cruises Australia          P&O Cruises Australia     Carnival     Carnival  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.9%
+24                     P&O Cruises                    P&O Cruises     Carnival     Carnival  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 1.7%
+25                 Holland America                Holland America     Carnival     Carnival  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 2.8%
+26                          Cunard                         Cunard     Carnival     Carnival  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.7%
+27                   Costa Cruises                  Costa Cruises     Carnival     Carnival  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 6.2%
+28                        Carnival                       Carnival     Carnival     Carnival  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                18.2%
+29                            AIDA                           AIDA     Carnival     Carnival  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 5.4%
+30                           %all%                          %all%     Carnival     Carnival  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers            5,842,600
+31                        Seabourn                       Seabourn     Carnival     Carnival  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers               33,800
+32                        Princess                       Princess     Carnival     Carnival  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers              816,300
+33           P&O Cruises Australia          P&O Cruises Australia     Carnival     Carnival  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers              127,300
+34                     P&O Cruises                    P&O Cruises     Carnival     Carnival  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers              241,500
+35                 Holland America                Holland America     Carnival     Carnival  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers              384,200
+36                          Cunard                         Cunard     Carnival     Carnival  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers               99,700
+37                   Costa Cruises                  Costa Cruises     Carnival     Carnival  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers              862,400
+38                        Carnival                       Carnival     Carnival     Carnival  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers            2,528,100
+39                            AIDA                           AIDA     Carnival     Carnival  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers              749,300
+40                           %all%                          %all%          RCI          RCI  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                21.2%
+41                       Silversea                      Silversea          RCI          RCI  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 1.6%
+42                 Royal Caribbean                Royal Caribbean          RCI          RCI  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                12.8%
+43                       Celebrity                      Celebrity          RCI          RCI  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 6.1%
+44                         Azamara                        Azamara          RCI          RCI  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 0.7%
+45                           %all%                          %all%          RCI          RCI    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue       $5,054,210,000
+46                       Silversea                      Silversea          RCI          RCI    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue         $391,710,000
+47                 Royal Caribbean                Royal Caribbean          RCI          RCI    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue       $3,048,670,000
+48                       Celebrity                      Celebrity          RCI          RCI    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue       $1,452,300,000
+49                         Azamara                        Azamara          RCI          RCI    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue         $161,530,000
+50                           %all%                          %all%          RCI          RCI  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                23.6%
+51                       Silversea                      Silversea          RCI          RCI  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.4%
+52                 Royal Caribbean                Royal Caribbean          RCI          RCI  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                19.1%
+53                       Celebrity                      Celebrity          RCI          RCI  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 3.9%
+54                         Azamara                        Azamara          RCI          RCI  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.2%
+55                           %all%                          %all%          RCI          RCI  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers            3,278,500
+56                       Silversea                      Silversea          RCI          RCI  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers               48,900
+57                 Royal Caribbean                Royal Caribbean          RCI          RCI  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers            2,657,900
+58                       Celebrity                      Celebrity          RCI          RCI  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers              540,000
+59                         Azamara                        Azamara          RCI          RCI  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers               31,700
+60                           %all%                          %all%    Norwegian    Norwegian  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                12.6%
+61               Regent Seven Seas              Regent Seven Seas    Norwegian    Norwegian  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 2.4%
+62                 Oceania Cruises                Oceania Cruises    Norwegian    Norwegian  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 1.6%
+63                       Norwegian                      Norwegian    Norwegian    Norwegian  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 8.6%
+64                           %all%                          %all%    Norwegian    Norwegian    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue       $2,996,280,000
+65               Regent Seven Seas              Regent Seven Seas    Norwegian    Norwegian    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue         $565,150,000
+66                 Oceania Cruises                Oceania Cruises    Norwegian    Norwegian    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue         $373,140,000
+67                       Norwegian                      Norwegian    Norwegian    Norwegian    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue       $2,057,990,000
+68                           %all%                          %all%    Norwegian    Norwegian  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 9.5%
+69               Regent Seven Seas              Regent Seven Seas    Norwegian    Norwegian  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.3%
+70                 Oceania Cruises                Oceania Cruises    Norwegian    Norwegian  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.5%
+71                       Norwegian                      Norwegian    Norwegian    Norwegian  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 8.6%
+72                           %all%                          %all%    Norwegian    Norwegian  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers            1,319,900
+73               Regent Seven Seas              Regent Seven Seas    Norwegian    Norwegian  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers               48,500
+74                 Oceania Cruises                Oceania Cruises    Norwegian    Norwegian  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers               71,100
+75                       Norwegian                      Norwegian    Norwegian    Norwegian  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers            1,200,300
+76                           %all%                          %all%    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                29.2%
+77                       Windstar                       Windstar     All Other    All Other  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 0.3%
+78           Voyages to Antiquity           Voyages to Antiquity     All Other    All Other  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 0.1%
+79                  Virgin Voyages                 Virgin Voyages    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 1.3%
+80                 Viking Cruises                 Viking Cruises     All Other    All Other  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 1.7%
+81                     TUI Cruises                    TUI Cruises    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 3.8%
+82                    Star Cruises                   Star Cruises    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 0.9%
+83                  Star Clippers                  Star Clippers     All Other    All Other  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 0.1%
+84            SeaDream Yacht Club            SeaDream Yacht Club     All Other    All Other  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 0.0%
+85                    Saga Cruises                   Saga Cruises    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 0.4%
+86              Quark Expeditions              Quark Expeditions     All Other    All Other  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 0.2%
+87    Ponant/Paul Gauguin Cruises    Ponant/Paul Gauguin Cruises     All Other    All Other  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 1.0%
+88                  Phoenix Reisen                 Phoenix Reisen    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 0.5%
+89            Paradise Cruise Line           Paradise Cruise Line    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 0.6%
+90                     MSC Cruises                    MSC Cruises    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 6.5%
+91                 Marella Cruises                Marella Cruises    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 1.2%
+92            Lindblad Expeditions           Lindblad Expeditions    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 0.2%
+93                    Hurtigruten                    Hurtigruten     All Other    All Other  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 1.4%
+94        Hebridean Island Cruises       Hebridean Island Cruises    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 0.0%
+95                     Hapag Lloyd                    Hapag Lloyd    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 0.6%
+96        Grand Circle Cruise Line       Grand Circle Cruise Line    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 0.0%
+97                      Fred Olsen                     Fred Olsen    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 1.3%
+98                   Dream Cruises                  Dream Cruises    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 3.0%
+99                          Disney                         Disney    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 2.7%
+100                        Crystal                        Crystal    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 0.5%
+101              Celestyal Cruises              Celestyal Cruises    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 0.7%
+102  Blount Small Ship Adventures   Blount Small Ship Adventures     All Other    All Other  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 0.0%
+103          American Cruise Lines          American Cruise Lines    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue                 0.2%
+104                          %all%                          %all%    All Other    All Other    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue       $6,951,160,000
+105                      Windstar                       Windstar     All Other    All Other    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue          $63,800,000
+106          Voyages to Antiquity           Voyages to Antiquity     All Other    All Other    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue          $21,270,000
+107                 Virgin Voyages                 Virgin Voyages    All Other    All Other    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue         $304,100,000
+108                Viking Cruises                 Viking Cruises     All Other    All Other    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue         $393,410,000
+109                    TUI Cruises                    TUI Cruises    All Other    All Other    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue         $903,790,000
+110                   Star Cruises                   Star Cruises    All Other    All Other    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue         $219,670,000
+111                 Star Clippers                  Star Clippers     All Other    All Other    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue          $31,900,000
+112           SeaDream Yacht Club            SeaDream Yacht Club     All Other    All Other    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue          $10,630,000
+113                   Saga Cruises                   Saga Cruises    All Other    All Other    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue         $106,220,000
+114             Quark Expeditions              Quark Expeditions     All Other    All Other    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue          $42,420,000
+115   Ponant/Paul Gauguin Cruises    Ponant/Paul Gauguin Cruises     All Other    All Other    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue         $233,920,000
+116                 Phoenix Reisen                 Phoenix Reisen    All Other    All Other    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue         $119,620,000
+117           Paradise Cruise Line           Paradise Cruise Line    All Other    All Other    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue         $138,230,000
+118                    MSC Cruises                    MSC Cruises    All Other    All Other    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue       $1,539,650,000
+119                Marella Cruises                Marella Cruises    All Other    All Other    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue         $281,770,000
+120           Lindblad Expeditions           Lindblad Expeditions    All Other    All Other    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue          $47,850,000
+121                   Hurtigruten                    Hurtigruten     All Other    All Other    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue         $334,930,000
+122       Hebridean Island Cruises       Hebridean Island Cruises    All Other    All Other    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue           $5,320,000
+123                    Hapag Lloyd                    Hapag Lloyd    All Other    All Other    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue         $132,910,000
+124       Grand Circle Cruise Line       Grand Circle Cruise Line    All Other    All Other    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue           $5,320,000
+125                     Fred Olsen                     Fred Olsen    All Other    All Other    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue         $303,030,000
+126                  Dream Cruises                  Dream Cruises    All Other    All Other    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue         $723,030,000
+127                         Disney                         Disney    All Other    All Other    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue         $653,450,000
+128                        Crystal                        Crystal    All Other    All Other    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue         $111,640,000
+129              Celestyal Cruises              Celestyal Cruises    All Other    All Other    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue         $175,440,000
+130  Blount Small Ship Adventures   Blount Small Ship Adventures     All Other    All Other    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue          $10,630,000
+131          American Cruise Lines          American Cruise Lines    All Other    All Other    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue          $37,210,000
+132                          %all%                          %all%    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                24.9%
+133                      Windstar                       Windstar     All Other    All Other  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.2%
+134          Voyages to Antiquity           Voyages to Antiquity     All Other    All Other  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.1%
+135                 Virgin Voyages                 Virgin Voyages    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.8%
+136                Viking Cruises                 Viking Cruises     All Other    All Other  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 1.0%
+137                    TUI Cruises                    TUI Cruises    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 2.4%
+138                   Star Cruises                   Star Cruises    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.6%
+139                 Star Clippers                  Star Clippers     All Other    All Other  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.1%
+140           SeaDream Yacht Club            SeaDream Yacht Club     All Other    All Other  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.0%
+141                   Saga Cruises                   Saga Cruises    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.3%
+142             Quark Expeditions              Quark Expeditions     All Other    All Other  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.1%
+143   Ponant/Paul Gauguin Cruises    Ponant/Paul Gauguin Cruises     All Other    All Other  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.6%
+144                 Phoenix Reisen                 Phoenix Reisen    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.3%
+145           Paradise Cruise Line           Paradise Cruise Line    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.4%
+146                    MSC Cruises                    MSC Cruises    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                10.2%
+147                Marella Cruises                Marella Cruises    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.7%
+148           Lindblad Expeditions           Lindblad Expeditions    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.1%
+149                   Hurtigruten                    Hurtigruten     All Other    All Other  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.9%
+150       Hebridean Island Cruises       Hebridean Island Cruises    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.0%
+151                    Hapag Lloyd                    Hapag Lloyd    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.3%
+152       Grand Circle Cruise Line       Grand Circle Cruise Line    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.0%
+153                     Fred Olsen                     Fred Olsen    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.8%
+154                  Dream Cruises                  Dream Cruises    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 1.9%
+155                         Disney                         Disney    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 2.2%
+156                        Crystal                        Crystal    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.3%
+157              Celestyal Cruises              Celestyal Cruises    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.5%
+158  Blount Small Ship Adventures   Blount Small Ship Adventures     All Other    All Other  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.0%
+159          American Cruise Lines          American Cruise Lines    All Other    All Other  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers                 0.1%
+160                          %all%                          %all%    All Other    All Other  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers            3,464,800
+161                      Windstar                       Windstar     All Other    All Other  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers               23,300
+162          Voyages to Antiquity           Voyages to Antiquity     All Other    All Other  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers                7,800
+163                 Virgin Voyages                 Virgin Voyages    All Other    All Other  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers              111,100
+164                Viking Cruises                 Viking Cruises     All Other    All Other  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers              143,700
+165                    TUI Cruises                    TUI Cruises    All Other    All Other  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers              330,100
+166                   Star Cruises                   Star Cruises    All Other    All Other  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers               80,200
+167                 Star Clippers                  Star Clippers     All Other    All Other  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers               11,700
+168           SeaDream Yacht Club            SeaDream Yacht Club     All Other    All Other  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers                3,900
+169                   Saga Cruises                   Saga Cruises    All Other    All Other  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers               38,800
+170             Quark Expeditions              Quark Expeditions     All Other    All Other  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers               15,500
+171   Ponant/Paul Gauguin Cruises    Ponant/Paul Gauguin Cruises     All Other    All Other  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers               85,400
+172                 Phoenix Reisen                 Phoenix Reisen    All Other    All Other  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers               43,700
+173           Paradise Cruise Line           Paradise Cruise Line    All Other    All Other  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers               50,500
+174                    MSC Cruises                    MSC Cruises    All Other    All Other  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers            1,414,700
+175                Marella Cruises                Marella Cruises    All Other    All Other  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers              102,900
+176           Lindblad Expeditions           Lindblad Expeditions    All Other    All Other  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers               17,500
+177                   Hurtigruten                    Hurtigruten     All Other    All Other  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers              122,300
+178       Hebridean Island Cruises       Hebridean Island Cruises    All Other    All Other  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers                1,900
+179                    Hapag Lloyd                    Hapag Lloyd    All Other    All Other  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers               48,500
+180       Grand Circle Cruise Line       Grand Circle Cruise Line    All Other    All Other  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers                1,900
+181                     Fred Olsen                     Fred Olsen    All Other    All Other  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers              110,700
+182                  Dream Cruises                  Dream Cruises    All Other    All Other  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers              264,100
+183                         Disney                         Disney    All Other    All Other  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers              312,200
+184                        Crystal                        Crystal    All Other    All Other  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers               40,800
+185              Celestyal Cruises              Celestyal Cruises    All Other    All Other  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers               64,100
+186  Blount Small Ship Adventures   Blount Small Ship Adventures     All Other    All Other  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers                3,900
+187          American Cruise Lines          American Cruise Lines    All Other    All Other  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers               13,600
+188                          %all%                          %all%        %all%        %all%  [excel.40861.913978402779].[pcto:sum:Net Reven...        % of Revenue               100.0%
+189                          %all%                          %all%        %all%        %all%    [excel.40861.913978402779].[sum:Net Revenue:qk]             Revenue      $23,834,840,000
+190                          %all%                          %all%        %all%        %all%  [excel.40861.913978402779].[pcto:sum:Total Pas...     % of Passengers               100.0%
+191                          %all%                          %all%        %all%        %all%  [excel.40861.913978402779].[sum:Total Passenge...    Total Passengers           13,905,800
