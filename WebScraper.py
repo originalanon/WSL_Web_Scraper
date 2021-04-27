@@ -1,7 +1,6 @@
 import sys as sys
 import requests
 import pandas as pd
-import pandas_profiling
 import string as str
 from bs4 import BeautifulSoup
 from tableauscraper import TableauScraper as TS
