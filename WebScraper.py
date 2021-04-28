@@ -21,7 +21,6 @@ pd.set_option('display.max_rows', None)
 pd.set_option('display.width', None)
 
 brandValueColumn = spreadSheet.data.loc[:, 'Brand-value']
-brandValueColumn.drop_duplicates(inplace = True)
 print(brandValueColumn)
 
 
@@ -30,13 +29,17 @@ parentValueColumn = spreadSheet.data.loc[:, 'Parent-value']
 print(parentValueColumn)
 
 measureNameAliasColumn = spreadSheet.data.loc[:, 'Measure Names-alias']
-#measureNameAliasColumn.drop_duplicates(inplace = True)
 print(measureNameAliasColumn)
 
 measureValueAliasColumn = spreadSheet.data.loc[:, 'Measure Values-alias']
 print(measureValueAliasColumn)
 
 cf.organizeSpreadsheetInfo("./SpreadsheetInfoFirst.csv", "./CruiseData.csv")
+
+for x in range(len(measureNameAliasColumn)):
+
+    if(measureNameAliasColumn[x] == "Total Passengers"):
+        #set Passengers to object
 
 page = requests.get(url)
 soup = BeautifulSoup(page.content, 'html.parser')
