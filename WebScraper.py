@@ -1,7 +1,6 @@
 import sys as sys
 import requests
 import pandas as pd
-import pandas_profiling
 import string as str
 from bs4 import BeautifulSoup
 from tableauscraper import TableauScraper as TS
@@ -13,6 +12,9 @@ url = "https://cruisemarketwatch.com/market-share/"
 ts = TS()
 ts.loads(url)
 spreadSheet = ts.getWorksheet("Details")
+
+spreadSheet.data[['Brand-value', 'Parent-value','Measure Names-value', 'Measure Values-alias']].to_csv("./SpreadsheetInfoFirst.csv", header=False, index=False)
+
 
 pd.set_option('display.max_columns', None)
 pd.set_option('display.max_rows', None)

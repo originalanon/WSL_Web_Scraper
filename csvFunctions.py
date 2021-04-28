@@ -13,7 +13,7 @@ def organizeSpreadsheetInfo(file):
         if not line:
             break
 
-        line = line.replace(',', '\n', 7)
+        line = line.replace(',', '\n', 3)
 
         print(line)
         
