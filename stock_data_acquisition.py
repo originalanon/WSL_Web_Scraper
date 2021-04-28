@@ -10,8 +10,8 @@ import seaborn as sns
 
 # ENTER YOUR SETTINGS HERE
 stock_ticker = ['CCL','RCL','NCLH']
-start_date = '2015-01-01'
-end_date = '2020-12-31'
+start_date = '2021-01-01'
+end_date = '2021-03-31'
 
 i = 0
 
