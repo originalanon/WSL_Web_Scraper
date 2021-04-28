@@ -5,7 +5,7 @@ import string as str
 from bs4 import BeautifulSoup
 from tableauscraper import TableauScraper as TS
 import csvFunctions as cf
-
+import numpy as np
 
 url = "https://cruisemarketwatch.com/market-share/"
 
@@ -19,6 +19,22 @@ spreadSheet.data[['Brand-value', 'Parent-value','Measure Names-alias', 'Measure 
 pd.set_option('display.max_columns', None)
 pd.set_option('display.max_rows', None)
 pd.set_option('display.width', None)
+
+brandValueColumn = spreadSheet.data.loc[:, 'Brand-value']
+brandValueColumn.drop_duplicates(inplace = True)
+print(brandValueColumn)
+
+
+parentValueColumn = spreadSheet.data.loc[:, 'Parent-value']
+#parentValueColumn.drop_duplicates(inplace = True)
+print(parentValueColumn)
+
+measureNameAliasColumn = spreadSheet.data.loc[:, 'Measure Names-alias']
+#measureNameAliasColumn.drop_duplicates(inplace = True)
+print(measureNameAliasColumn)
+
+measureValueAliasColumn = spreadSheet.data.loc[:, 'Measure Values-alias']
+print(measureValueAliasColumn)
 
 cf.organizeSpreadsheetInfo("./SpreadsheetInfoFirst.csv", "./CruiseData.csv")
 
