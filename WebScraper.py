@@ -6,6 +6,9 @@ from bs4 import BeautifulSoup
 from tableauscraper import TableauScraper as TS
 import csvFunctions as cf
 import numpy as np
+from CruiseStats import CruiseStats
+
+statsList = []
 
 url = "https://cruisemarketwatch.com/market-share/"
 
@@ -25,7 +28,6 @@ print(brandValueColumn)
 
 
 parentValueColumn = spreadSheet.data.loc[:, 'Parent-value']
-#parentValueColumn.drop_duplicates(inplace = True)
 print(parentValueColumn)
 
 measureNameAliasColumn = spreadSheet.data.loc[:, 'Measure Names-alias']
@@ -37,9 +39,22 @@ print(measureValueAliasColumn)
 cf.organizeSpreadsheetInfo("./SpreadsheetInfoFirst.csv", "./CruiseData.csv")
 
 for x in range(len(measureNameAliasColumn)):
+    statsList.append(CruiseStats())
+
+    statsList[x].setName(brandValueColumn[x])
+    statsList[x].setParentCompany(parentValueColumn[x])
 
     if(measureNameAliasColumn[x] == "Total Passengers"):
-        #set Passengers to object
+        statsList[x].setTotalPassengers(measureValueAliasColumn[x])
+    elif(measureNameAliasColumn[x] == "Revenue"):
+        statsList[x].setRevenue(measureValueAliasColumn[x])
+    elif(measureNameAliasColumn[x] == "% of Revenue"):
+        statsList[x].setPercentOfRevenue(measureValueAliasColumn[x])
+    elif(measureNameAliasColumn[x] == "% of Passengers"):
+        statsList[x].setPercentOfPassengers(measureValueAliasColumn[x])
+
+    statsList[x].printStatistic()
+
 
 page = requests.get(url)
 soup = BeautifulSoup(page.content, 'html.parser')
