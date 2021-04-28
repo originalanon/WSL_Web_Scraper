@@ -6,16 +6,19 @@ def csvHeadersInsert(file):
     print("Parent Company, Brand, Total Passengers, % of Passengers, Revenue, % of Revenue, Average Stock Value")
     sys.stdout.close()
 
-def organizeSpreadsheetInfo(file):
-    csvFile = open(file, "r")
+def organizeSpreadsheetInfo(importfile, exportfile):
+    readFile = open(importfile, "r")
+    writeFile = open(exportfile, "w")
+
     while True:
-        line = csvFile.readline()
+        line = readFile.readline()
         if not line:
             break
 
-        line = line.replace(',', '\n', 3)
 
-        print(line)
+        writeFile.write(line)
+
         
 
-    csvFile.close()
+    readFile.close()
+    writeFile.close()
