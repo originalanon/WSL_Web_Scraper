@@ -1,17 +1,27 @@
-import Company
-
-class CruiseStats(Company):
-     def __init__(self, year,totalPassengers, percentOfPassengers, revenue, percentOfRevenue ):
+class CruiseStats():
+        def __init__(self, name, parentCompany,totalPassengers, percentOfPassengers, revenue, percentOfRevenue ):
         
-        Company.__init__(self,name,parentCompany)
-    
-        self.year=year
-        self.passenger=totalPassengers
-        self.people_percent=percentOfPassengers
-        self.revenue=revenue
-        self.cash_percent=percentOfRevenue
+                self.name=name
+                self.parentCompany=parentCompany
+                self.totalPassenger=totalPassengers
+                self.percentOfPassengers=percentOfPassengers
+                self.revenue=revenue
+                self.percentOfRevenue=percentOfRevenue
 
+        def setName(self,x):
+                self.name=x
+        def setParentCompany(self,x):
+                self.parentCompany=x
+        def setTotalPassengers(self,x):
+                self.totalPassengers=x
+        def setPercentOfPassengers(self,x):
+                self.percentOfPassengers=x
+        def setRevenue(self,x):
+            self.revenue=x    
+        def setPercentOfRevenue(self,x):
+                self.percentOfRevenue=x
 
-m=Company("Spoon","dell")
-stats=CruiseStats( 2021, 9, 100, -500, -100)
-print(stats.name)
+        def printStatistic(self):
+                print(self.name + ', ' + self.parentCompany + ', '+ self.year + ', ' + self.totalPassengers+', '
+                +self.setPercentOfPassengers +', '+self.revenue+ ', ' +self.percentOfRevenue)
+                
