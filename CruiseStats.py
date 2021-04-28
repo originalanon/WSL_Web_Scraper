@@ -22,6 +22,6 @@ class CruiseStats():
                 self.percentOfRevenue=x
 
         def printStatistic(self):
-                print(self.name + ', ' + self.parentCompany + ', '+ self.year + ', ' + self.totalPassengers+', '
+                print(self.name + ', ' + self.parentCompany +', ' + self.totalPassengers+', '
                 +self.setPercentOfPassengers +', '+self.revenue+ ', ' +self.percentOfRevenue)
                 
