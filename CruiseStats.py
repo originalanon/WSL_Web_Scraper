@@ -15,11 +15,14 @@ class CruiseStats():
     def setTotalPassengers(self,x):
         self.totalPassengers=x
     def setPercentOfPassengers(self,x):
-        self.percentOfPassengers=x
+        percent = x.split("%", 1)
+        self.percentOfPassengers = percent[0]
     def setRevenue(self,x):
-        self.revenue=x    
+        revenue = x.split("$", 1)
+        self.revenue = revenue[1]
     def setPercentOfRevenue(self,x):
-        self.percentOfRevenue=x
+        percent = x.split("%", 1)
+        self.percentOfRevenue = percent[0]
 
     def getPassengers(self):
         return self.totalPassengers
