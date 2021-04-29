@@ -61,6 +61,8 @@ for x in range(len(totalPassengersValueColumn)):
                     + revenueValueColumn[x].replace(",", "").replace("$","")+ ", "
                     + revenuePercentValueColumn[x].replace("%", "") + "\n")
 
+writeFile.close()
+
 #BeautifulSoup stuff
 page = requests.get(url)
 soup = BeautifulSoup(page.content, 'html.parser')
